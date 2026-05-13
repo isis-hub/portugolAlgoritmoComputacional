@@ -3,7 +3,7 @@
 Lista de exercícios desenvolvida em Portugol para prática de algoritmos e lógica de programação. Utilizando VisualG
 ## Conteúdo da Lista
 
-"Os exercicios abordam:
+Os exercicios abordam:
 
 - Entrada e saída de dados
 - Operações matemáticas
@@ -15,7 +15,7 @@ Lista de exercícios desenvolvida em Portugol para prática de algoritmos e lóg
 - Cálculo de salário
 - Problemas de lanchonete
 - Exercícios de supermercado
-- Estruturas básicas em Portugol"
+- Estruturas básicas em Portugol
 
 ## Arquivos do Repositório
 
