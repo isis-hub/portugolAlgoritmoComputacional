@@ -1,4 +1,4 @@
-# Exercícios em Portugol
+# Exercicios em Portugol
 
 Lista de exercícios desenvolvida em Portugol para prática de algoritmos e lógica de programação. Utilizando VisualG
 ## Conteúdo da Lista
